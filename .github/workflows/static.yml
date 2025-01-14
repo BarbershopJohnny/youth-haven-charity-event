@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Youth Haven Charity Golf Event</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Youth Haven Charity Golf Tournament</h1>
+        <p>Join us for a day of golf at The Moorings to support Youth Haven of Naples!</p>
+    </header>
+
+    <section id="event-details">
+        <h2>Event Details</h2>
+        <p><strong>Date:</strong> [Insert Date]</p>
+        <p><strong>Time:</strong> [Insert Time]</p>
+        <p><strong>Location:</strong> The Moorings Golf Club, Naples, FL</p>
+    </section>
+
+    <section id="call-to-action">
+        <a href="registration.html" class="btn">Register Now</a>
+        <a href="donate.html" class="btn">Donate Now</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Youth Haven of Naples Charity Golf Event</p>
+    </footer>
+</body>
+</html>
